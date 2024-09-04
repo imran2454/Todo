@@ -1,0 +1,40 @@
+.main-heading{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: cursive;
+    height: auto;
+    background-color: gray;
+    color: white;
+    padding: 20px 0px;
+    margin-bottom: 40px;
+}
+input{
+    height: 30px;
+    width: 220px;
+    margin: 20px;
+    font-size: 1rem;
+    border: 2px solid black;
+}
+.btnAdd{
+    padding: .5rem 1.2rem;
+    background-color: slategrey;
+    border: none;
+    font-size: 1rem;
+    border: 2px solid black;
+}
+.btnDelet{
+    padding: .5rem 1.2rem;
+    background: rgb(220, 32, 32);
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border:  2px solid red;
+}
+.result-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    background-color: rgb(219, 197, 197);
+}
